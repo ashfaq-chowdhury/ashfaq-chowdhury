@@ -3,8 +3,8 @@
 Full Stack Web Developer · B.Sc. in CSE (Dean's List) from American International University-Bangladesh. Passionate about software development, teaching, and AI/ML.
 
 - 💼 Web Development Intern @ Battery Low Interactive Ltd. — built features with React, Node.js, and PostgreSQL
-- 🔭 Currently working on: **[Portfolio](https://github.com/ashfaq-chowdhury/Portfolio)** — this site itself, a Next.js portfolio with an admin dashboard and Docker deployment
-- 🌱 Learning: *(fill in what you're currently picking up)*
+<!--- 🔭 Currently working on: **[Portfolio](https://github.com/ashfaq-chowdhury/Portfolio)** — this site itself, a Next.js portfolio with an admin dashboard and Docker deployment-->
+- 🌱 Learning: 
 - 🌐 Portfolio: [portfolio-ashfaqur-rahman-chowdhury.vercel.app](https://portfolio-ashfaqur-rahman-chowdhury.vercel.app/)
 - 💬 Ask me about: React, Node.js, C#/.NET, Kotlin, DSA
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashfaqur-rahman-chowdhury-2931b8245/) · [Email](mailto:ashfaq17407@gmail.com)
@@ -26,7 +26,7 @@ Full Stack Web Developer · B.Sc. in CSE (Dean's List) from American Internation
 | [Portfolio](https://github.com/ashfaq-chowdhury/Portfolio) | Personal portfolio site with an admin dashboard for managing projects/profile data | Next.js, TypeScript, Docker |
 | [Portal](https://github.com/ashfaq-chowdhury/Portal) | Role-based academic management system — enrollment, grade management, and profile controls for students, faculty, and admins | C#, .NET |
 | [Expense-Tracker](https://github.com/ashfaq-chowdhury/Expense-Tracker) | Native Android app to log, categorize, and visualize personal finances | Kotlin |
-| Limitless *(add link once pushed)* | Full-stack web app with user authentication, real-time updates, and a component-based UI | React, Node.js, PostgreSQL |
+| [Limitless](https://limitless-gilt.vercel.app) | Full-stack web app with user authentication, real-time updates, and a component-based UI | React, Node.js, PostgreSQL |
 
 ### 📊 GitHub Stats
 
